@@ -1,2 +1,1 @@
-# fft-qfft
-To be modified
+# FFT & Quantum FFT Implementation
