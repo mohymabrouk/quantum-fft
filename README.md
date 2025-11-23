@@ -5,6 +5,7 @@ Ce projet permet d’appliquer la transformée de Fourier rapide (FFT) sur des f
 ## Fonctionnement mathématique
 
 La FFT est un algorithme efficace qui décompose un signal (audio ou image) en ses différentes fréquences. 
+
 $$
 X_k = \sum_{n=0}^{N-1} x_n\, e^{-2i\pi n k / N}
 $$
